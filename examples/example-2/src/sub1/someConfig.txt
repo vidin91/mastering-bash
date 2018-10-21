@@ -1,0 +1,2 @@
+token=123123mmmzaasldfasdkf
+user_jid=bred@adobe.com
